@@ -332,4 +332,3 @@ dependencies:
       - pyqt5-sip==12.9.0
       - scikit-learn==1.4.2
       - scikit-optimize==0.10.2
-prefix: /Users/kylexu/miniconda3/envs/matsci465
